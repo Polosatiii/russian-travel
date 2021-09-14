@@ -16,3 +16,4 @@
 
 ## Ссылка на GitPages:
 
+https://polosatiii.github.io/russian-travel/index.html
