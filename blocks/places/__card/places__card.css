@@ -11,9 +11,7 @@
 
    .places__card{ 
       gap: 0 32px;
-      grid-template-columns: 440px 1fr;
-      padding: 0;
-      margin: 0;
+      grid-template-columns: 440px 1fr
    
    }  
 }
@@ -23,8 +21,6 @@
    .places__card{ 
       gap: 0 28px;
       grid-template-columns: 340px 1fr;
-      padding: 0;
-      margin: 0;
    
    }
 }
@@ -34,8 +30,6 @@
    .places__card{
       display: flex;
       flex-direction: column;
-      padding: 0;
-      margin: 0;
    
    }
 }
